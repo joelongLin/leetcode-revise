@@ -21,6 +21,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-02-25 03:56 | [#931 下降路径最小和](https://leetcode-cn.com/problems/minimum-falling-path-sum) | MEDIUM | 2 | 1 |
 | 2021-02-24 13:18 | [#832 翻转图像](https://leetcode-cn.com/problems/flipping-an-image) | EASY | 1 | 1 |
 | 2021-02-24 12:48 | [#24 两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs) | MEDIUM | 1 | 1 |
 | 2021-02-23 10:24 | [#1052 爱生气的书店老板](https://leetcode-cn.com/problems/grumpy-bookstore-owner) | MEDIUM | 1 | 1 |
