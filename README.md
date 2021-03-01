@@ -21,6 +21,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-02-28 13:54 | [#896 单调数列](https://leetcode-cn.com/problems/monotonic-array) | EASY | 4 | 1 |
 | 2021-02-27 10:23 | [#415 字符串相加](https://leetcode-cn.com/problems/add-strings) | EASY | 3 | 1 |
 | 2021-02-27 09:04 | [#160 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists) | EASY | 1 | 1 |
 | 2021-02-26 16:01 | [#142 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii) | MEDIUM | 4 | **2** |
