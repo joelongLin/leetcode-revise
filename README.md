@@ -21,6 +21,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-03-05 03:04 | [#698 划分为k个相等的子集](https://leetcode-cn.com/problems/partition-to-k-equal-sum-subsets) | MEDIUM | 2 | 1 |
 | 2021-03-04 12:06 | [#37 解数独](https://leetcode-cn.com/problems/sudoku-solver) | HARD | 1 | 1 |
 | 2021-03-04 11:40 | [#354 俄罗斯套娃信封问题](https://leetcode-cn.com/problems/russian-doll-envelopes) | HARD | 8 | **2** |
 | 2021-03-03 07:09 | [#297 二叉树的序列化与反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree) | HARD | 1 | 1 |
