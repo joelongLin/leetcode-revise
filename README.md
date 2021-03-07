@@ -21,6 +21,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-03-07 03:22 | [#494 目标和](https://leetcode-cn.com/problems/target-sum) | MEDIUM | 7 | 1 |
 | 2021-03-05 03:04 | [#698 划分为k个相等的子集](https://leetcode-cn.com/problems/partition-to-k-equal-sum-subsets) | MEDIUM | 2 | 1 |
 | 2021-03-04 12:06 | [#37 解数独](https://leetcode-cn.com/problems/sudoku-solver) | HARD | 1 | 1 |
 | 2021-03-04 11:40 | [#354 俄罗斯套娃信封问题](https://leetcode-cn.com/problems/russian-doll-envelopes) | HARD | 8 | **2** |
@@ -212,7 +213,7 @@
 | 2020-11-02 15:31 | [#349 两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays) | EASY | 1 | 1 |
 | 2020-11-01 16:58 | [#381 O(1) 时间插入、删除和获取随机元素 - 允许重复](https://leetcode-cn.com/problems/insert-delete-getrandom-o1-duplicates-allowed) | HARD | 8 | **2** |
 | 2020-10-30 11:09 | [#463 岛屿的周长](https://leetcode-cn.com/problems/island-perimeter) | EASY | 1 | 1 |
-| 2020-10-30 06:30 | [#129 求根到叶子节点数字之和](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers) | MEDIUM | 2 | 1 |
+| 2020-10-30 06:30 | [#129 求根节点到叶节点数字之和](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers) | MEDIUM | 2 | 1 |
 | 2020-10-29 03:58 | [#845 数组中的最长山脉](https://leetcode-cn.com/problems/longest-mountain-in-array) | MEDIUM | 8 | **2** |
 | 2020-10-28 17:06 | [#1024 视频拼接](https://leetcode-cn.com/problems/video-stitching) | MEDIUM | 4 | 1 |
 | 2020-10-28 09:19 | [#1207 独一无二的出现次数](https://leetcode-cn.com/problems/unique-number-of-occurrences) | EASY | 1 | 1 |
