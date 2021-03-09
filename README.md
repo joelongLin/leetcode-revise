@@ -21,6 +21,9 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-03-09 09:09 | [#225 用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues) | EASY | 1 | 1 |
+| 2021-03-09 08:10 | [#232 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks) | EASY | 1 | 1 |
+| 2021-03-09 08:05 | [#剑指 Offer 09 用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof) | EASY | 1 | 1 |
 | 2021-03-08 17:03 | [#189 旋转数组](https://leetcode-cn.com/problems/rotate-array) | MEDIUM | 2 | **2** |
 | 2021-03-08 16:45 | [#312 戳气球](https://leetcode-cn.com/problems/burst-balloons) | HARD | 3 | 1 |
 | 2021-03-08 12:37 | [#450 删除二叉搜索树中的节点](https://leetcode-cn.com/problems/delete-node-in-a-bst) | MEDIUM | 1 | 1 |
