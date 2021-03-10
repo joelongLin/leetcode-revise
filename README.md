@@ -164,7 +164,7 @@
 | 2020-12-03 12:42 | [#204 计数质数](https://leetcode-cn.com/problems/count-primes) | EASY | 2 | 1 |
 | 2020-12-03 06:02 | [#316 去除重复字母](https://leetcode-cn.com/problems/remove-duplicate-letters) | MEDIUM | 4 | 1 |
 | 2020-12-03 02:25 | [#LCP 09 最小跳跃次数](https://leetcode-cn.com/problems/zui-xiao-tiao-yue-ci-shu) | HARD | 6 | 1 |
-| 2020-12-02 06:37 | [#45 跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii) | HARD | 3 | 1 |
+| 2020-12-02 06:37 | [#45 跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii) | MEDIUM | 3 | 1 |
 | 2020-12-01 11:16 | [#34 在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array) | MEDIUM | 2 | 1 |
 | 2020-11-30 14:17 | [#767 重构字符串](https://leetcode-cn.com/problems/reorganize-string) | MEDIUM | 1 | 1 |
 | 2020-11-30 07:56 | [#257 二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths) | EASY | 4 | 1 |
