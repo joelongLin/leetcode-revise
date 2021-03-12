@@ -21,6 +21,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-03-11 16:05 | [#32 最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses) | HARD | 2 | 1 |
 | 2021-03-10 16:05 | [#331 验证二叉树的前序序列化](https://leetcode-cn.com/problems/verify-preorder-serialization-of-a-binary-tree) | MEDIUM | 1 | 1 |
 | 2021-03-10 14:37 | [#剑指 Offer 37 序列化二叉树](https://leetcode-cn.com/problems/xu-lie-hua-er-cha-shu-lcof) | HARD | 3 | 1 |
 | 2021-03-10 04:54 | [#11 盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water) | MEDIUM | 3 | **3** |
